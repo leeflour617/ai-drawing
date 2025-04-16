@@ -1,5 +1,5 @@
 {
-  "name": "ai-drawing-app",  // 你的 Worker 名称
+  "name": "ai-drawing",  // 你的 Worker 名称
   "compatibility_date": "2025-04-16",
   "assets": {
     "directory": "./static"  // 指定静态资源目录
